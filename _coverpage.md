@@ -9,7 +9,7 @@
 [进一步了解](/home)
 
 <!-- background image -->
-<!-- ![](_media/bg.png) -->
+<!-- ![](https://i.loli.net/2020/05/06/m9RBqV7GlAdJWx6.png) -->
 
 <!-- background color -->
 <!-- ![color](#f0f0f0) -->
