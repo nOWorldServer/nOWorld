@@ -24,10 +24,18 @@
       onlyCover: false,
       nameLink: '/',
       noEmoji: false,
-      auto2top: false,
-      autoHeader: true,
+      auto2top: true,
       mergeNavbar: true,
       hideSidebar: false,
+      plugins: [
+				function (hook) {
+					hook.doneEach(function () {
+						if (typeof MathJax !== "undefined") {
+							MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+						}
+					})
+				}
+			],
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
