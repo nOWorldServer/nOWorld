@@ -1,3 +1,3 @@
 # 关于 nOWorld
 
-> An awesome project.
+提供生存/创造双世界并行玩法，只要服务器在线服主就活着。
