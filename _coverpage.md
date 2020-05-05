@@ -7,3 +7,9 @@
 
 [加入服务器](/join)
 [进一步了解](/home)
+
+<!-- background image -->
+<!-- ![](_media/bg.png) -->
+
+<!-- background color -->
+<!-- ![color](#f0f0f0) -->

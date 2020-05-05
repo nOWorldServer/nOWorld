@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,18 +9,42 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="keywords" content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages">
   <meta name="description" content="A magical documentation generator.">
-  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" title="vue">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" title="dark" disabled>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/buble.css" title="buble" disabled>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/pure.css" title="pure" disabled>
- 
+
   <script src="//cdn.jsdelivr.net/npm/docsify-plugin-codefund/index.js"></script>
-  <link rel="stylesheet"  href="//cdn.jsdelivr.net/npm/docsify-dark-mode@0.6.1/dist/style.css"/>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@0.6.1/dist/style.css" />
   <style>
     nav.app-nav li ul {
       min-width: 100px;
     }
+
+    .cover {
+      background-color: #f0f0f0 !important;
+      background: url(/_media/bg.png) !important ;
+      background-repeat: no-repeat !important;
+      background-size: cover !important;
+      -webkit-background-size: cover !important;
+      -o-background-size: cover !important;
+      background-position: center 0 !important;
+    }
+
+    section.cover .cover-main>p:last-child a {
+    /* border: 1px solid var(--theme-color,#42b983); */
+    border: 1px solid #f0f0f0;
+    /* color: var(--theme-color,#42b983); */
+    color: #f0f0f0;
+  }
+
+  /* section.cover .cover-main>p:last-child a:last-child {
+    background-color: var(--theme-color,#42b983);
+    color: #fff;
+} */
+
   </style>
 </head>
 
@@ -39,7 +62,7 @@
         '/es/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1'
       },
       auto2top: true,
-      homepage:'home.md',
+      homepage: 'home.md',
       coverpage: true,
       executeScript: true,
       loadSidebar: true,
@@ -48,6 +71,7 @@
       maxLevel: 4,
       subMaxLevel: 2,
       name: 'nOWorld',
+      themeColor: '#00bbbb',
       darkMode: {
         light: {
           toggleBtnBg: '#42b983'
@@ -65,9 +89,9 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-dark-mode@0.6.1/dist/index.js"></script>
   <script>
-  ((window.gitter = {}).chat = {}).options = {
-    room: 'nOWorldServer/community'
-  };
+      ((window.gitter = {}).chat = {}).options = {
+      room: 'nOWorldServer/community'
+    };
   </script>
   <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 </body>
