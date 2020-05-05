@@ -1,5 +1,5 @@
 
-# nOWorld
+<font size=72>**[nOWorld](/)**</font>
 
 > A minecraft server made by notBuiden.
 
