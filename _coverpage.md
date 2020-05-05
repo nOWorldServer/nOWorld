@@ -12,4 +12,4 @@
 <!-- ![](https://i.loli.net/2020/05/06/m9RBqV7GlAdJWx6.png) -->
 
 <!-- background color -->
-<!-- ![color](#000000) -->
+![color](#f0f0f0)
