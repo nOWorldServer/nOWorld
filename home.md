@@ -3,7 +3,7 @@
 ## 插件列表
 基础插件`EssentialsX`,`EntityTrackerFixer`,`SAML`,`VisualFixer`,`CoreProtect`,`LuckPerms`
 
-特色插件`BeehivesPro`,`MineTinker`,`Shopkeepers`,`MultiverseCore`
+特色插件`BeehivesPro`,`MineTinker`,`Shopkeepers`,`Multiverse2`,`Chair`
 
 ## 服务器地址
 
