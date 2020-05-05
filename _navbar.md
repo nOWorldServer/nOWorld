@@ -1,5 +1,1 @@
-* Pages
-    * [Home](/Home/)
-    * [Me](/Me/)
-
-* [Index](/)
+[GitHub](https://github.com/nOWorldServer/nOWorld)

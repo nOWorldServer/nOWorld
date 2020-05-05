@@ -2,11 +2,11 @@
 
 ## 认识MineTinker
 - MineTinker类似于匠魂工具，对原版附魔进行扩展。
-- 作者：flo56958 [https://www.spigotmc.org/resources/authors/flo56958.184735/](url)
-- SpigotMC页面 [https://www.spigotmc.org/resources/minetinker-40-modifiers-tools-and-armor.58940/](url)
+- 作者：[flo56958](https://www.spigotmc.org/resources/authors/flo56958.184735/)
+- [SpigotMC页面](https://www.spigotmc.org/resources/minetinker-40-modifiers-tools-and-armor.58940/)
 
 ## MineTinker有哪些模块？
-在游戏中输入`/mt mods`可以查看MineTinker的模块列表及合成表。MineTinker包含了所有的原版附魔，同时对附魔效果进行了扩展、提升。
+    在游戏中输入`/mt mods`可以查看MineTinker的模块列表及合成表。MineTinker包含了所有的原版附魔，同时对附魔效果进行了扩展、提升。
 
 ## 如何将附魔工具转化为MineTinker工具？
 1. 将附魔工具放入工作台，或生存模式合成栏。
@@ -52,5 +52,3 @@ MineTinker允许直接将工具源材料放置在MineTinker工具上来完成对
 
 使用建筑之杖右键方块，将会复制该方块周围的5*5平面，同时自动扣除物品栏中的物品。
 钻石可以被不同的矿物替代，但建筑之杖的耐久同样会降低。
-
-[Back](./index.md).

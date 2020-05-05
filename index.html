@@ -17,20 +17,23 @@
   <script>
     window.$docsify = {
       el: "#app",
-      routerMode: 'history',
       homepage: 'home.md',
       loadSidebar: true,
-      loadNavbar: false,
+      loadNavbar: true, 
       coverpage: true,
+      onlyCover: false,
       nameLink: '/',
       noEmoji: false,
-      auto2top: true,
+      auto2top: false,
+      autoHeader: true,
+      mergeNavbar: true,
+      hideSidebar: false,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
       subMaxLevel: 2,
-			autoHeader: true,
-			basePath: '/',
+      autoHeader: true,
+      basePath: '/',
 
       name: 'nOWorld 服务器',
       repo: 'nOWorldServer/nOWorld'
