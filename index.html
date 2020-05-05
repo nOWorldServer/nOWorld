@@ -45,13 +45,13 @@
     color: #fff;
 } */
 
-    .gitter-open-chat-button{
+    .gitter-open-chat-button {
       background-color: var(--theme-color, #00bbbb);
     }
-    .gitter-open-chat-button:hover{
+
+    .gitter-open-chat-button:hover {
       background-color: #009b9b;
     }
-    
   </style>
 </head>
 
@@ -80,8 +80,15 @@
       themeColor: '#00bbbb',
       name: 'nOWorldWiki',
       darkMode: {
+        dark: {
+          background: "",
+          toggleBtnBg: "#00bbbb",
+          textColor: ""
+        },
         light: {
-          toggleBtnBg: '#00bbbb'
+          background: "",
+          toggleBtnBg: "",
+          textColor: ""
         }
       },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
