@@ -4,9 +4,9 @@
 提供生存/创造双模式游玩，
 
 ## 插件列表
-基础插件`EssentialsX`,`EntityTrackerFixer`,`SAML`,`VisualFixer`,`CoreProtect`,`LuckPerms`
+基础插件`EssentialsX`,`EntityTrackerFixer`,`SAML`,`VisualFixer`,`CoreProtect`,`LuckPerms`,`Residence`
 
-特色插件`BeehivesPro`,`MineTinker`,`Shopkeepers`,`Multiverse2`,`Chair`,`Residence`
+特色插件`BeehivesPro`,`MineTinker`,`Shopkeepers`,`Multiverse2`,`Chair`,`DiceFurniture`
 
 ## 服务器地址
 
