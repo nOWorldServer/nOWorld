@@ -60,26 +60,33 @@
   <div id="app">Loading ...</div>
   <script>
     window.$docsify = {
+      
       alias: {
-        '.*?/awesome': 'https://raw.githubusercontent.com/docsifyjs/awesome-docsify/master/README.md',
-        '.*?/changelog': 'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG.md',
         '/.*/_navbar.md': '/_navbar.md',
-        '/zh-cn/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-zh/master/$1',
-        '/de-de/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-de/master/$1',
-        '/ru/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-ru/master/$1',
-        '/es/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1'
       },
+
       auto2top: true,
+
       homepage: 'home.md',
+
       coverpage: true,
+
       executeScript: true,
+
       loadSidebar: true,
+
       loadNavbar: true,
+
       mergeNavbar: false,
+
       maxLevel: 4,
+
       subMaxLevel: 2,
+
       themeColor: '#00bbbb',
+
       name: 'nOWorldWiki',
+
       darkMode: {
         dark: {
           background: "#1c2022",
@@ -92,6 +99,15 @@
           textColor: "var(--text_color)"
         }
       },
+
+      search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: [], // or 'auto'
+      placeholder: '搜索',
+      noData: '找不到结果',
+      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+    },
+
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
     }
   </script>
