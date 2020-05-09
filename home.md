@@ -1,7 +1,9 @@
 # nOWorld
 
 ## 关于nOWorld
-提供生存/创造双模式游玩，
+提供生存/创造双模式游玩的一个高自由度服务器。
+
+!>服务器建议原版生存，不提倡利用Bug与大型红石机械获取物品。
 
 ## 插件列表
 基础插件`EssentialsX`,`EntityTrackerFixer`,`SAML`,`VisualFixer`,`CoreProtect`,`LuckPerms`,`Residence`
@@ -10,9 +12,8 @@
 
 ## 服务器地址
 
-**`notbuiden.nat300.top:20323`**
-
-暂时使用本机内网穿透来搭建服务器。
+**`play.noworld.top`**
+如无法连接，请点击[OPEN CHAT]留言。
 
 ## 当前世界 
 
@@ -22,7 +23,7 @@
 
 ## 开放时间 
 
-**UTC+8 8:00 - 23:00**
+**24/7**
 
 ## 爱发电❤
 [让服务器运行得更好，需要一定的赞助。](https://afdian.net/@nOWorld)
