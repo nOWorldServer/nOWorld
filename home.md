@@ -3,7 +3,7 @@
 ## 关于nOWorld
 提供生存/创造双模式游玩的一个高自由度服务器。
 
-!>服务器建议原版生存，不提倡利用Bug与大型红石机械获取物品。
+!>无论是生存还是创造，服务器都不提倡利用Bug与大型红石机械获取物品。
 
 ## 插件列表
 基础插件`EssentialsX`,`SAML`,`VisualFixer`,`CoreProtect`,`LuckPerms`,`Residence`,`NoDreams`
