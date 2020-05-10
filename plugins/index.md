@@ -4,4 +4,4 @@
 
 [如何使用Residence(领地)？](/plugins/Residence.md)
 
-[如何使用死亡水晶？](/plusings/deathcrystal.md)
+[如何使用死亡水晶？](/plusings/DeathCrystal.md)
