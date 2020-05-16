@@ -5,15 +5,10 @@
 
 !>无论是生存还是创造，服务器都不提倡利用Bug与大型红石机械获取物品。
 
-## 插件列表
-基础插件`EssentialsX`,`SAML`,`VisualFixer`,`CoreProtect`,`LuckPerms`,`Residence`,`NoDreams`
-
-特色插件`BeehivesPro`,`MineTinker`,`Shopkeepers`,`Multiverse2`,`Chair`
-
 ## 服务器地址
 **`play.noworld.top`**
 
-如无法连接，请点击[OPEN CHAT]留言。
+如无法连接，请点击[OPEN CHAT](https://gitter.im/nOWorldServer/community)或加入[服务器QQ群](https://jq.qq.com/?_wv=1027&k=IyLZu5Vj)留言。
 
 ## 当前世界 
 **`Paper 1.15.2 Online Mode`**
