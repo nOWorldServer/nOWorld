@@ -5,8 +5,8 @@
 
 技术支持: [Kelegele](https://github.com/kelegele)
 
-[加入服务器](/join)
 [进一步了解](/home)
+[加入服务器](/join)
 
 <!-- background image -->
 <!-- ![](https://i.loli.net/2020/05/06/m9RBqV7GlAdJWx6.png) -->
