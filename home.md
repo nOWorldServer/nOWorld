@@ -1,5 +1,10 @@
 # nOWorld
 
+## 当前世界 `测试周目`
+**`Paper 1.15.2 Online Mode`**
+
+进入服务器后默认为生存世界，输入指令`/mv tp creative`可以传送至创造世界。
+
 ## 关于nOWorld
 起源于2020年5月2日。致力为您打造一个简单、温馨的高素质正版服务器。
 
@@ -11,11 +16,6 @@
 **`play.noworld.top`**
 
 如无法连接，请点击[OPEN CHAT](https://gitter.im/nOWorldServer/community)或加入[服务器QQ群](https://jq.qq.com/?_wv=1027&k=IyLZu5Vj)留言。
-
-## 当前世界 
-**`Paper 1.15.2 Online Mode`**
-
-进入服务器后默认为生存世界，输入指令`/mv tp creative`可以传送至创造世界。
 
 ## 开放时间 
 主服24/7开放，如无法连接请点击[OPEN CHAT](https://gitter.im/nOWorldServer/community)或加入[服务器QQ群](https://jq.qq.com/?_wv=1027&k=IyLZu5Vj)留言。
