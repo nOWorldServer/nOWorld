@@ -2,5 +2,5 @@
 
 * [插件介绍](/plugins/index.md)
     * [MineTinker](/plugins/MineTinker.md)
-    * [Residence(领地)](/plugins/Residence.md)
+    * [待更新]
 * [加入服务器](/join)
