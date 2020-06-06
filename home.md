@@ -1,9 +1,8 @@
 # nOWorld 6
 
 ## 当前世界 `正式周目`
-**`Paper 1.15.2 Online Mode`**
+**`Spigot 1.15.2 Online Mode`**
 
-进入服务器后进入生存主服，输入指令`/server creative`可以传送至创造服。
 
 ## 关于nOWorld
 起源于2020年5月2日。致力为您打造一个简单、温馨的高素质正版服务器。
@@ -15,6 +14,7 @@
 ## 服务器地址
 **`play.noworld.top`**
 
+进服后输入`/server creative`可以传送至创造服，`/server minigames`可以传送至来自[RFC红毛城](https://www.redfurcity.com/)的小游戏服。
 如无法连接，请点击[OPEN CHAT](https://gitter.im/nOWorldServer/community)或加入[服务器QQ群](https://jq.qq.com/?_wv=1027&k=IyLZu5Vj)留言。
 
 ## 开放时间 
