@@ -4,8 +4,8 @@
 
 * [建议与规则](/rules.md)
 
-* [插件介绍](/plugins/index.md)
+* [插件](/plugins/index.md)
     * [MineTinker](/plugins/MineTinker.md)
-    * [待更新]
+    * [Residence](/plugins/Residence.md)
     
 * [加入服务器](/join)
