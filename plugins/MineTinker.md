@@ -1,48 +1,47 @@
 # 如何使用MineTinker？
 
 ## 认识MineTinker
-- MineTinker类似于匠魂工具，对原版附魔进行扩展。
+- MineTinker类似于插件版的匠魂。对于第一次认识MineTinker的玩家，你可以将它看作扩展附魔插件。
 - 作者：[flo56958](https://www.spigotmc.org/resources/authors/flo56958.184735/)
 - [SpigotMC页面](https://www.spigotmc.org/resources/minetinker-40-modifiers-tools-and-armor.58940/)
 
-## MineTinker有哪些模块？
-- 在游戏中输入`/mt mods`可以查看MineTinker的模块列表及合成表。MineTinker包含了所有的原版附魔，同时对附魔效果进行了扩展、提升。
+## MineTinker工具与模块
+你可能会发现，在服务器中有一些工具、装备上边总会带一些与原版不一致的字样。这是因为这些工具是MineTinker插件的产物，我们把它称作MineTinker工具/装备（当然，你也可以把MineTinker简写成MT）。类似于原版的附魔属性，MineTinker把这类属性称之为**模块**。在游戏中输入`/mt mods`可以查看MineTinker的模块列表及合成表。MineTinker包含了所有的原版附魔，同时有着有别于原版附魔的各种模块（例如夜行隐身、自动熔炼、挖掘加成等等）。
 
 ## 如何将附魔工具转化为MineTinker工具？
-1. 将附魔工具放入工作台，或生存模式合成栏。
+服务器中，从工作台做出的工具/装备默认为原版工具/装备。由于添加模块槽位的成本在大多数时候大于附魔，我们建议先对工具/装备进行附魔，然后转化成MineTinker模块。操作如下：
+1. 将已附魔工具放入工作台，或生存模式合成栏。
 2. 从工作台或合成栏的右侧取出工具，这时你会发现原有的附魔属性已经转化成了MineTinker模块。
-3. 令大多数MineTinker工具消失的方法只有扔入虚空，其余方法均无法销毁MineTinker工具。特例是MineTinker盔甲，盔甲可以像普通/附魔盔甲一样被用爆。
    
 ## 如何给MineTinker工具添加MineTinker模块？
 1. 输入`/mt mods`查看模块列表，并选择模块进行合成。
-2. 在铁砧中的第一格放入MineTinker工具，第二格放入模块对应的合成物品，在右侧取出MineTinker工具，完成模块添加。
-3. 模块添加后，再次添加相同模块合成物品以升级模块，增加模块效果概率。
+2. 在铁砧中的第一格放入MineTinker工具，第二格放入模块，在右侧取出MineTinker工具，完成模块添加。
+3. 模块添加后，再次添加相同模块以升级模块，增加模块效果概率。
 
 ## 为什么我无法给工具添加MineTinker模块？
 - 请检查是否将原工具转化为MineTinker工具。
-- 请检查MineTinker工具的剩余模块槽位。模块槽位如何添加请看下文。
+- 请检查MineTinker工具的剩余模块槽位数量是否符合模块所需槽位数量。模块槽位如何添加请看下文。
 - 排查了以上情况后如果仍然无法添加，请咨询服主。
 
 ## 如何添加模块槽位？
-- 在使用MineTinker工具时，工具经验也会不断增加。当经验累积到一定值，工具便会升级，此时工具会添加一个模块槽位。
+- 在使用MineTinker工具时，工具经验也会不断增加。当经验累积到一定值，工具便会升级，此时工具会添加一个模块槽位，同时随机送出一些矿物。
 - 在MineTinker中，可以使用**下界之星**来强制给MineTinker工具添加模块槽位。
-```markdown
+`
 通常情况下，下界之星是十分昂贵的。
-为了避免浪费下界之星，nOWorld建议先对工具进行附魔、再进行MineTinker转化
-```
+`
 
 ## 特色功能
 ### 工具修复
-MineTinker允许直接将工具源材料放置在MineTinker工具上来完成对工具的修复，该操作会扣除一定数量的源材料。
+MineTinker允许直接将工具源材料在MineTinker工具上拖动来完成对工具的修复，该操作会扣除一定数量的源材料。就如同在铁砧上修复一般，但该操作没有次数限制。
 
-![修复前](https://i.loli.net/2020/05/04/DQ2yi3VEmNd6k8x.png)👉 ![修复后](https://i.loli.net/2020/05/04/DSh24P8kGfeIQEZ.png)
+![修复前](https://i.loli.net/2020/05/04/DQ2yi3VEmNd6k8x.png)👉![修复后](https://i.loli.net/2020/05/04/DSh24P8kGfeIQEZ.png)
 
-```
+`
 可以使用海晶碎片修复三叉戟
 可以使用幻翼膜修复鞘翅
-```
+`
 
-### 便捷收割
+### 懒人收割
 将锄头进行MineTinker转化后，手持锄头右键农作物可以免补种收割。
 
 ### 建筑之杖
