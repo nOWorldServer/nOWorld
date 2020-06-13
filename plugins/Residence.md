@@ -8,7 +8,3 @@
 ## 如何获取Residence的帮助？
 - [Residence中文Wiki](https://github.com/bluesadi/ResidenceChineseTutorial/wiki)
 - 查阅Wiki后如有疑问，请询问服主。
-
-## 服务器中的更改
-- 领地最大空间为256\*256\*256
-- 禁用了领地经济相关的设置
