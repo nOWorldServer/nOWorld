@@ -5,7 +5,7 @@
 
 技术支持: [Kelegele](https://github.com/kelegele)
 
-[进一步了解](/home)
+[进一步了解](/README)
 [加入服务器](/join)
 
 <!-- background image -->
