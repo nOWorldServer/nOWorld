@@ -1,7 +1,3 @@
----
-description: how-to-start
----
-
 # 如何开始
 
 ### 进入服务器前的准备
