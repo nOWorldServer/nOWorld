@@ -12,7 +12,7 @@ nOWorld Wiki仅作为服务器内有关与原版玩法不同之处的补充。�
 
 ### 当前世界
 
-Tuinity 1.15.2 正版免登录-兼容离线玩家
+Paper 1.16.1 正版免登录-兼容离线玩家
 
 ### 当前周目
 
@@ -26,8 +26,6 @@ Tuinity 1.15.2 正版免登录-兼容离线玩家
 
 **`play.noworld.top`**
 
-进服后，输入`/server creative`可以传送至创造服，`/server minigames`可以传送至来自[RFC红毛城](https://www.redfurcity.com/)的小游戏服。
-
 如无法连接，请点击[OPEN CHAT](https://gitter.im/nOWorldServer/community)或加入[服务器QQ群](https://jq.qq.com/?_wv=1027&k=IyLZu5Vj)留言。
 
 ## 爱发电❤
@@ -37,8 +35,4 @@ Tuinity 1.15.2 正版免登录-兼容离线玩家
 ## 拓展阅读
 
 如果您想要从 Wiki 中了解更多，可以根据自己的需要在左侧的「侧边栏」中找到要阅读的内容，然后点击它即可进入相关页面。
-
-## 特别鸣谢
-
-[SoTap原版扩展服务器，最公益的商业服](https://sotap.org/)
 
