@@ -16,7 +16,7 @@ nOWorld为正版/离线混合模式的服务器。正版玩家进入登录大厅
 
  ![REG](https://i.loli.net/2020/06/14/uaVH2qOpsQAmrJz.png)
 
-此时，你可以输入指令`/register [你的密码] [再输一遍你的密码] [验证码]`来完成注册，像这样![FINISH](https://i.loli.net/2020/06/14/vuxTag7zyBhmPOC.png)。
+此时，你可以输入指令`/register [你的密码] [再输一遍你的密码] [验证码]`来完成注册，像这样`举例中使用password作为模拟密码`![FINISH](https://i.loli.net/2020/06/14/vuxTag7zyBhmPOC.png)。
 
 我们建议玩家使用正版账号登录。当您从离线账号转为正版账号时，可以联系服主帮您转移背包、homes等数据。
 
