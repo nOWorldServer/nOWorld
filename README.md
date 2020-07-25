@@ -26,7 +26,7 @@ Paper 1.16.1 正版免登录-兼容离线玩家
 
 **`2020年7月之后新玩家需进入审核群审核通过后方可进入主群获得服务器地址`**
 
-请加入[服务器审核QQ群](https://jq.qq.com/?_wv=1027&k=Sa3Af8Il)审核，有疑问请点击[OPEN CHAT](https://gitter.im/nOWorldServer/community)。
+请加入[服务器审核答疑QQ群](https://jq.qq.com/?_wv=1027&k=Sa3Af8Il)审核，有疑问请点击[OPEN CHAT](https://gitter.im/nOWorldServer/community)。
 
 ## 爱发电❤
 
